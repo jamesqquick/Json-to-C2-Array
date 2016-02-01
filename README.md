@@ -15,9 +15,17 @@ Clone the Xamarin Forms samples with the following command.
 2.Copy the plugin's folder ***JsontoC2Array*** to <install path of Consturct 2>\exporters\html5\plugins. You'll see each plugin has its own folder here, so to add a new plugin create a new folder and add the plugin's files inside it.
 3.Launch Construct 2 and the plugin or behavior should be available from the editor.
 
+![Copy Plugin](https://raw.githubusercontent.com/jamesqquick/Json-to-C2-Array/master/Screenshots/CopyPlugin.PNG)
+
 ***Use the Plugin***
-1. Use the plugin's ConvertJSON method with the raw JSON as the parameter as shown below.
-  ConvertJSON("JSON string to be converted")
+1. Add the Plugin  
+
+![Add the Plugin](https://raw.githubusercontent.com/jamesqquick/Json-to-C2-Array/master/Screenshots/SelectPlugin.PNG)  
+
+2. Use the plugin's ConvertJSON method with the raw JSON as the parameter as shown below.  
+  ConvertJSON("JSON string to be converted")  
+
+![Use the Plugin](https://raw.githubusercontent.com/jamesqquick/Json-to-C2-Array/master/Screenshots/Usage.PNG)  
 
 
 ## **Technology**
