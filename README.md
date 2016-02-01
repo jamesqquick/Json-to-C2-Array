@@ -6,7 +6,7 @@ This plugin will convert a raw JSON string of an array (typically useful for dow
 
 ## **How to Use**
 
-Clone the Xamarin Forms samples with the following command.
+Clone the repository with the following command.
 
 ```$ git clone https://github.com/jamesqquick/Json-to-C2-Array.git ```
 
